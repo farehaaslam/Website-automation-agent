@@ -1,0 +1,18 @@
+{
+  "name": "website-automation",
+  "version": "1.0.0",
+  "main": "agent.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@openai/agents": "^0.0.17",
+    "dotenv": "^17.2.1",
+    "zod": "^3.25.76"
+  }
+}
